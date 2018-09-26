@@ -12,4 +12,5 @@ Para instalar localmente o create-react-app:
 4. Rodar o comando create-react-app app-admin dentro da pasta .bin;
 5. Substituir as pastas "public" e "src" que surgiram pelas de mesmo nome que estão nesse repositório;
 6. Na pasta "app-admin", rodar npm install jquery.
-7. Comando "npm start".
+7. Também rodar npm install react-router.
+8. Comando "npm start".
