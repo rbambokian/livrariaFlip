@@ -1,0 +1,105 @@
+/*INDEX LIVRARIA FLIP	*/
+.border-content {
+  border-top-width: thin;
+  border-top-style: solid;
+  border-top-color: #ffab40;
+  padding-top: 25px;
+}
+
+nav {
+	box-shadow: none;
+	background-color: transparent !important; 
+	height: 85px;
+}
+
+.brand-logo, .icon-nav {
+	margin-top: 10px;
+	color: #ffab40 !important;
+}
+
+a {
+	text-transform: none !important;
+}
+
+.img-text img {
+	margin-right: 13px !important;
+	margin-top: 10px !important;
+}
+
+.valor-livro {
+	font-size: 18px;
+	float: right;
+	color: #80deea !important;
+}
+
+.material-icons {
+	vertical-align: bottom;
+}
+
+.card-title {
+	color: #80deea;
+	font-size: 24px !important;
+}
+
+.valor-livro {
+	margin-top: 5px !important;
+}
+
+.card-action {
+	margin-top: 20px;
+}
+
+.modal {
+	max-width: 400px;
+}
+
+.btn-flat {
+	color: #ffab40;
+	font-weight: 500 !important;
+}
+
+.badge-count {
+    position: relative;
+    top: 33px;
+ /*   right: 115px*/;
+}
+@media screen and (max-width: 600px) {
+	.badge-count {
+	    position: fixed;
+	    left: 20px;
+	    top: 28px;
+	}
+}
+
+/*.li-icon {
+    position: relative;
+    top: 1.3px;
+}*/
+
+/*CARRINHO LIVRARIA FLIP*/
+.card-panel {
+	background-color: #546e7a !important;
+	font-weight: 300 !important;
+}
+
+table {
+	margin-top: 15px;
+}
+
+th {
+	color: #ffab40;
+	font-size: 17px;
+	font-weight: 500 !important;
+}
+
+tr {
+	color: white;
+}
+
+.total-carrinho {
+	font-size: 16px;
+	color: #80deea;
+}
+
+
+
